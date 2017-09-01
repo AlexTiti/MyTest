@@ -10,4 +10,5 @@ package com.example.administrator.mytest;
  *   version  :   V 1.0.5
  */
 public class B {
+String str = "testbrach";
 }
