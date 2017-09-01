@@ -9,7 +9,6 @@ package com.example.administrator.mytest;
  *   desc     :
  *   version  :   V 1.0.5
  */
-public class AAA {
-    String a = "c";
-    String b= "b";
+public class C {
+
 }
