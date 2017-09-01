@@ -28,12 +28,9 @@ public class Main2Activity extends AppCompatActivity {
         LinearLayoutManager m = new LinearLayoutManager(this);
         recyclerView.setLayoutManager(m);
         recyclerView.setAdapter(new Vh());
-
-
     }
 
      class Vh extends RecyclerView.Adapter<ViewHo>{
-
 
         @Override
         public ViewHo onCreateViewHolder(ViewGroup parent, int viewType) {
